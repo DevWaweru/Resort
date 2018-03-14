@@ -22,5 +22,6 @@ li a:hover{
 }
 img{
     height: 300px;
-    width: 40%;
+    width: 33.3%;
+    float: left;
 }
