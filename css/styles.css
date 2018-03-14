@@ -1,9 +1,12 @@
+h1{
+    text-align: center;
+}
 ul{
     list-style-type: none;
     background-color: black;
 }
 li{
-    float: left;
+    float: right;
 }
 li a{
     display: block;
